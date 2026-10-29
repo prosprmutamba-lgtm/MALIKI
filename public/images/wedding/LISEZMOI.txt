@@ -1,0 +1,1 @@
+Déposez ici vos photos (voir GUIDE_MODIFICATION.md). Tant qu'un fichier manque, un cadre « Photo à ajouter » s'affiche.
