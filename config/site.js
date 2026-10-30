@@ -1,6 +1,6 @@
 // Noms des mariés et affectation des photos. Les fichiers se déposent dans public/images/wedding/
 module.exports = {
-  names: ['Ansima Joyce', 'Maliki Didier'],
+  names: ['Maliki Didier', 'Ansima Joyce'],
   imageDir: 'images/wedding',
   images: {
     cover: 'cover.jpg',
